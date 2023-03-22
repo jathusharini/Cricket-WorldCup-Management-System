@@ -1,0 +1,110 @@
+PLAYER_NAME,ROLE,MATCHES,RUNS,WICKETS,COUNTRY
+Eoin Morgon,Batsman,2,0,0,England
+Moeen Ali,All rounder,3,0,0,England
+Jonny Bairstow,Batsman,2,0,0,England
+Sam Billings,Wicket keeper Batter,3,0,0,England
+Jos Buttler,Wicket keeper Batter,2,0,0,England
+Tom Curran,All rounder,3,0,0,England
+Chris Jordan,Bowler,2,0,0,England
+Liam Livingstone,All rounder,3,0,0,England
+Dawid Malan,Batsman,3,0,0,England
+Adil Rashid,Bowler,3,0,0,England
+David Willey,All rounder,1,0,0,England
+Mark Wood,Bowler,3,0,0,England
+Reece Topley,Bowler,3,0,0,England
+Babar Azam,Batsman,2,0,0,Pakistan
+Asif Ali,Batsman,2,0,0,Pakistan
+Fhakar Zaman,Batsman,2,0,0,Pakistan
+Haider Ali,Batsman,2,0,0,Pakistan
+Haris Rauf,Bowler,3,0,0,Pakistan
+Hasan Ali,Bowler,3,0,0,Pakistan
+Imad Wasim,All rounder,3,0,0,Pakistan
+Mohammad Hafeez,All rounder,3,0,0,Pakistan
+Mohammad Nawaz,All rounder,0,0,0,Pakistan
+Mohammad Rizwan,Wicket keeper batter,3,0,0,Pakistan
+Mohammad Wasim,All rounder,2,0,0,Pakistan
+Shadab Khan,All rounder,2,0,0,Pakistan
+Sarfaraz Ahmed,Wicket keeper batter,2,0,0,Pakistan
+Shaheen Afridi,Bowler,1,0,0,Pakistan
+Shoaib Malik,All rounder,3,0,0,Pakistan
+Virat Kohli,Batsman,3,0,0,India
+Ravichandran Ashwin,All rounder,0,0,0,India
+Jasprit Bumrah,Bowler,1,0,0,India
+Rahul Chahar,Bowler,3,0,0,India
+Ishan Kishan,Wicket keeper Batter,3,0,0,India
+Ravindra Jadeja,All rounder,3,0,0,India
+Bhuwaneshwar Kumar,Bowler,2,0,0,India
+Mohammad Shami,Bowler,3,0,0,India
+Hardik Pandiya ,All rounder,2,0,0,India
+Rishab Pant,Wicket keeper Batter,2,0,0,India
+KL Rahul,Batsman,3,0,0,India
+Rohit Sharma,Batsman,1,0,0,India
+Shardul Thakur,Bowler,3,0,0,India
+Varun Chakrawarthy,Bowler,2,0,0,India
+Suryakumar Yadav,Batsman,2,0,0,India
+Kane Williamson,Batsman,3,0,0,NewZealand
+Todd Astle,Bowler,2,0,0,NewZealand
+Trent Boult,Bowler,3,0,0,NewZealand
+Mark Chapman,All rounder,3,0,0,NewZealand
+Devon Conway,Batsman,3,0,0,NewZealand
+Daryl Mitchell,All rounder,2,0,0,NewZealand
+Kyle Jamieson,Bowler,3,0,0,NewZealand
+Jimmy Neesham,All rounder,3,0,0,NewZealand
+Glenn Philips,Wicket keeper Batsman,3,0,0,NewZealand
+Mitchell Santner,All rounder,3,0,0,NewZealand
+Tim Seifert,Wicket keeper Batsman,3,0,0,NewZealand
+Ish  Sodhi,Bowler,2,0,0,NewZealand
+Temba Bavuma,Batsman,2,0,0,SouthAfrica
+Quinton de Kock,Wicket keeper Batsman,3,0,0,SouthAfrica
+Bjorn Fortuin,Bowler,3,0,0,SouthAfrica
+Reeza Hendricks,Batsman,2,0,0,SouthAfrica
+Heinrich Klaasen,Wicket keeper Batsman,2,0,0,SouthAfrica
+Keshav Maharaj,Bowler,2,0,0,SouthAfrica
+Aiden Markram,Batsman,3,0,0,SouthAfrica
+David Miller,Batsman,2,0,0,SouthAfrica
+Wiaan Mulder,All rounder,3,0,0,SouthAfrica
+Lungi Ngidi,Bowler,2,0,0,SouthAfrica
+Anrich Nortje,Bowler,3,0,0,SouthAfrica
+Dwaine Pretorius,Bowler,3,0,0,SouthAfrica
+Kagiso Rabada,Bowler,3,0,0,SouthAfrica
+Aaron Finch,Batsman,3,0,0,Australia
+Ashton Agar,Bowler,2,0,0,Australia
+Pat Cummins,Bowler,3,0,0,Australia
+Josh Hazlewood,Bowler,3,0,0,Australia
+Mitchell Marsh,All rounder,3,0,0,Australia
+Glenn Maxwell,Batsman,2,0,0,Australia
+Kane Richardson,Bowler,2,0,0,Australia
+Steven Smith,Batsman,2,0,0,Australia
+Mitchell Starc,Bowler,3,0,0,Australia
+Marcus Stoinis,Batsman,3,0,0,Australia
+Matthew Wade,Wicket keeper Batsman,1,0,0,Australia
+David Warner,Batsman,3,0,0,Australia
+Adam Zampa,Bowler,3,0,0,Australia
+Dasun Shanaka,All rounder,2,0,0,SriLanka
+Charith Asalanka,All rounder,2,0,0,SriLanka
+Dinesh Chandimal,Wicket keeper Batter,3,0,0,SriLanka
+Dushmantha Chameera,Bowler,2,0,0,SriLanka
+Akila Dhananjaya,All rounder,3,0,0,SriLanka
+Wanidhu Hasaranga,All rounder,2,0,0,SriLanka
+Dhananjaya de Silva,All rounder,2,0,0,SriLanka
+Avishka Fernando,Batsman,2,0,0,SriLanka
+Binura Fernando,Bowler,3,0,0,SriLanka
+Chamika Karunaratne,Bowler,2,0,0,SriLanka
+Lahiru Kumara,Bowler,2,0,0,SriLanka
+Pathum Nisanka,Batsman,1,0,0,SriLanka
+Kusal Perera,Wicket keeper Batter,3,0,0,SriLanka
+Bhanuka Rajapaksa ,All rounder,2,0,0,SriLanka
+Maheesh Theekshana,Bowler,2,0,0,SriLanka
+Mahmudullah,All rounder,2,0,0,Bangladesh
+Afif Hossain,All rounder,2,0,0,Bangladesh
+Mahedi Hasan,All rounder,2,0,0,Bangladesh
+Mohammad Naim,Batsman,3,0,0,Bangladesh
+Mohammad Saifuddin,Bowler,1,0,0,Bangladesh
+Mushfiqur Rahim,Wicket keeper Batsman,3,0,0,Bangladesh
+Nasum Ahmed,Bowler,3,0,0,Bangladesh
+Nurul Hasan,Wicket keeper Batsman,3,0,0,Bangladesh
+Rubel Hossain,Bowler,3,0,0,Bangladesh
+Shakib Al Hasan,All rounder,3,0,0,Bangladesh
+Shamim Hossain,All rounder,2,0,0,Bangladesh
+Soumya Sarkar,Batsman,3,0,0,Bangladesh
+Liton Das,Wicket keeper Batsman,3,0,0,Bangladesh
